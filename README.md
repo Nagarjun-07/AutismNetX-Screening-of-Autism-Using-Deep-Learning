@@ -2,6 +2,11 @@
 
 AutismNetX is a scalable, interpretable, and high-accuracy screening tool for Autism Spectrum Disorder (ASD). By combining advanced supervised learning algorithms (XGBoost, Gradient Boosting, Neural Networks) with Explainable AI and imbalance-handling techniques (SMOTE), it delivers rapid, data-driven early detection using demographic, behavioral, and clinical features.
 
+| Model               | Accuracy | Precision | Recall | F1-Score |
+|---------------------|----------|-----------|--------|----------|
+| **AutismNetX (XGBoost + NN)** | 97.05%   | 0.96      | 0.98   | 0.97     |
+| Neural Network      | 96.2%    | 0.95      | 0.97   | 0.96     |
+| Random Forest       | 94.8%    | 0.93      | 0.95   | 0.94     |
 ---
 ![image](https://github.com/user-attachments/assets/4ecd2c05-3863-4652-ae16-ea3835c9c421)
 
@@ -142,5 +147,5 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/AutismNetX.git
+   git clone https://github.com/Nagarjun-07/AutismNetX.git
    cd AutismNetX
