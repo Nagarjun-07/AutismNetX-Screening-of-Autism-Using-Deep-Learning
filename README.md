@@ -3,6 +3,7 @@
 AutismNetX is a scalable, interpretable, and high-accuracy screening tool for Autism Spectrum Disorder (ASD). By combining advanced supervised learning algorithms (XGBoost, Gradient Boosting, Neural Networks) with Explainable AI and imbalance-handling techniques (SMOTE), it delivers rapid, data-driven early detection using demographic, behavioral, and clinical features.
 
 ---
+![image](https://github.com/user-attachments/assets/4ecd2c05-3863-4652-ae16-ea3835c9c421)
 
 ## 📌 Table of Contents
 
@@ -18,9 +19,6 @@ AutismNetX is a scalable, interpretable, and high-accuracy screening tool for Au
 - [Results](#results)  
 - [Future Scope](#future-scope)  
 - [Installation & Usage](#installation--usage)  
-- [Project Structure](#project-structure)  
-- [References](#references)  
-- [License](#license)  
 
 ---
 
@@ -58,12 +56,14 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
    - Mitigate misclassification risks (false positives/negatives)
 
 ---
+![image](https://github.com/user-attachments/assets/5228fa7f-b330-41f3-931d-da92a21393eb)
 
 ## Motivation
 
 - **Early Intervention:** Timely ASD detection can dramatically improve long-term outcomes.  
 - **Resource Efficiency:** Automated screening reduces dependence on specialist availability.  
 - **Clinical Trust:** Explainable AI fosters adoption in healthcare settings.  
+![image](https://github.com/user-attachments/assets/1d6dbb7b-8087-4d0b-9e74-51dc9ce9630b)
 
 ---
 
@@ -118,6 +118,11 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
 
 - **Top Predictive Features:** AQ questions A4, A5, A8  
 - **Explainability:** SHAP summary plots demonstrate each feature’s impact on predictions  
+![image](https://github.com/user-attachments/assets/5f281876-acc8-44df-9ea4-726042bf7283)
+![image](https://github.com/user-attachments/assets/a2cc2b97-6390-4bb0-b9a8-4b3d6f7bffac)
+![image](https://github.com/user-attachments/assets/20471a12-a26c-4370-8d9b-4ccdf7583bd5)
+![image](https://github.com/user-attachments/assets/a05ba81f-6b62-4e11-b1d6-9e73b0e44dee)
+
 
 ---
 
@@ -131,6 +136,7 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
 6. **Global Adaptation:** Multilingual interfaces and culturally tailored questionnaires  
 
 ---
+
 
 ## Installation & Usage
 
