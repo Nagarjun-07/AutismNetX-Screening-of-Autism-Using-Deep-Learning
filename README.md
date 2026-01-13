@@ -53,7 +53,7 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
    - Identify top predictive features (e.g., AQ questions A4, A5, A8)
 
 4. **Scalable & Generalizable**  
-   - Hybrid architectures: XGBoost, LightGBM, Neural Networks  
+   - Hybrid architectures: XGBoost, Attention mechanism, SVM  
    - Cross-validation (K-Fold) and hyperparameter tuning  
 
 5. **Ethics & Privacy**  
@@ -99,10 +99,10 @@ Autism Spectrum Disorder is a complex neurodevelopmental condition affecting soc
 ### 3. Model Training & Optimization
 
 - **Algorithms:**  
-  - **Ensemble:** XGBoost, LightGBM, Random Forest  
+  - **Ensemble:** XGBoost, LSTM, SVM  
   - **Deep Learning:** Fully-connected Neural Networks (ReLU activations)  
 - **Validation:** 5-Fold Cross-Validation  
-- **Hyperparameter Tuning:** Grid Search / Bayesian Optimization  
+- **Hyperparameter Tuning:** Grid Search / Guassian Optimization  
 
 ### 4. Evaluation & Metrics
 
